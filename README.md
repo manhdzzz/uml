@@ -1,8 +1,3 @@
-![Image](https://chatgpt.com/backend-api/estuary/content?id=file_000000000e4c7209b4335dc2fec47011&ts=490574&p=fs&cid=1&sig=427acc5a1edc86594b8ac987c6cb8a3121eb694eb8f141d60222836c797a12ff&v=0)
-
-
-Dưới đây là **phân tích chi tiết từng ký hiệu trong sơ đồ UML** mà bạn hỏi — giúp bạn hiểu rõ ý nghĩa của **hình tròn đen, hình tròn rỗng, hình vuông, mũi tên, kiểu đường nối**, v.v.
-
 ---
 
 ## ✅ **1. Ký hiệu thuộc tính & phương thức**
